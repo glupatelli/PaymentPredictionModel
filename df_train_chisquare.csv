@@ -1,0 +1,12 @@
+"","feature","p-value"
+"1","payment_method_new",5.15142795180776e-07
+"2","custom_meal_selection_new",1.32381163350532e-103
+"3","state_new",0.00189372462169563
+"4","channel_new",2.10388957185974e-10
+"5","engagement_score",1.09915884975156e-163
+"6","num_prior_orders_failed",3.01493772336059e-49
+"7","num_prior_orders_unpaid",2.38702997222991e-91
+"8","engagement_cat_new",5.32472654720713e-108
+"9","ever_rated_recipe_new",7.00514486816906e-18
+"10","is_f_new",1.06763304180044e-15
+"11","delivery_week_new",0.146692226217843
